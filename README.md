@@ -1,2 +1,2 @@
 # Learning_Opengl
-A series of projects undertaken whilst learning computer graphics using opengl
+A series of projects undertaken while learning computer graphics using opengl
